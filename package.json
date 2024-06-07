@@ -1,5 +1,5 @@
 {
-  "name": "bun-whatsapp",
+  "name": "bun-discord",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
